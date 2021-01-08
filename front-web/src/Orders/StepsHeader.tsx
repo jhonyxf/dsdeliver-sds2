@@ -1,5 +1,3 @@
-
-
 function StepsHeader(){
     return(
 

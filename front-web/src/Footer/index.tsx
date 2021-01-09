@@ -9,9 +9,9 @@ function Footer(){
         <footer className="main-footer">
             App desenvolvido durante a 2ª ed. do evento Semana DevSuperior
             <div className="footer-icons">
-                <a href="" className="" target="_new"><YoutubeIcon /></a>
-                <a href="" className="" target="_new"><LinkedinIcon /></a>
-                <a href="" className="" target="_new"><InstagramIcon /></a>
+                <a href="https://www.linkedin.com/in/sidney-jhony-dias-da-silva-922a379a/" target="_new"><YoutubeIcon /></a>
+                <a href="https://www.linkedin.com/in/sidney-jhony-dias-da-silva-922a379a/" target="_new"><LinkedinIcon /></a>
+                <a href="https://www.linkedin.com/in/sidney-jhony-dias-da-silva-922a379a/" target="_new"><InstagramIcon /></a>
             </div>
         </footer>
     )
